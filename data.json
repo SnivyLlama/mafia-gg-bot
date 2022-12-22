@@ -1,0 +1,430 @@
+{
+    "trusted": [
+        "camelCasedAlt",
+        "camelBasedSnivy",
+        "camelCasedSnivy",
+        "camelCasedServine",
+        "Watchdog",
+        "EpicCheese",
+        "Indignant",
+        "Iatrophobe",
+        "bloodtree",
+        "Thought"
+    ],
+    "setups": {
+        "Coffee Break": {
+            "code": "93a1b75a1",
+            "start": "dawnStart"
+        },
+        "Consifom": {
+            "code": "5a1b61a1b19a1",
+            "start": "off"
+        },
+        "Small Vengeful": {
+            "code": "1596416878a1b20a1b106a1",
+            "start": "dawnStart"
+        },
+        "The One I Cannot Kill": {
+            "code": "1596416878a1b1572486115a1b1596417444a1",
+            "start": "dawnStart"
+        },
+        "Bombguns": {
+            "code": "4a1b1539825403a1b42a1b201a1",
+            "start": "dawnStart"
+        },
+        "Two Time's The Charm": {
+            "code": "5a2b7a1b70a1",
+            "start": "dawnStart"
+        },
+        "5 Man Conplan": {
+            "code": "18a1b31a1b40a1b52a1b1547802152a1",
+            "start": "off"
+        },
+        "CSPAN": {
+            "code": "11a1b17a1b98a1b92a1b5a1",
+            "start": "off"
+        },
+        "Dethy": {
+            "code": "75a1b7a1b23a1b33a1b37a1",
+            "start": "off"
+        },
+        "Zombies": {
+            "code": "57a2b1558372324a1b1572486115a2",
+            "start": "dawnStart"
+        },
+        "Bozosnoops": {
+            "code": "1555727200a3b11a1b1577132908a1b1558372324a1",
+            "start": "off"
+        },
+        "Everyman": {
+            "code": "12a1b100a1b95a1b44a1b90a1b18a1",
+            "start": "dawnStart"
+        },
+        "Lamb Stampede": {
+            "code": "1616290531a2b1539915457a4",
+            "start": "off"
+        },
+        "Lovers Mafia": {
+            "code": "18a4b83a2",
+            "start": "dawnStart"
+        },
+        "Shrink the Cult": {
+            "code": "98a1b12a1b93a1b44a3",
+            "start": "off"
+        },
+        "TMI": {
+            "code": "1611986711a1b1547078335a1b1611988621a1b58a3",
+            "start": "dawnStart"
+        },
+        "Bootcamp": {
+            "code": "7a1b65a1b57a3b1565630670a1b75a1",
+            "start": "dawnStart"
+        },
+        "Guns and Hookers": {
+            "code": "19a1b7a1b69a1b75a1b57a3",
+            "start": "off"
+        },
+        "Pie E7": {
+            "code": "7a1b75a1b57a3b12a1b69a1",
+            "start": "dawnStart"
+        },
+        "Voltron Doesn't Like It": {
+            "code": "75a1b57a2b5a1b36a1b1611988688a1b1565223000a1",
+            "start": "mafiaNKn1"
+        },
+        "Civil Arms": {
+            "code": "19a1b1596418309a2b1565223000a2b57a3",
+            "start": "off"
+        },
+        "Stackjack": {
+            "code": "57a3b1602978335a1b66a1b1577500425a2b1596417444a1",
+            "start": "dawnStart"
+        },
+        "Sweet Dreams": {
+            "code": "75a1b57a2b28a1b13a1b45a2b87a1",
+            "start": "off"
+        },
+        "Voltron": {
+            "code": "5a1b75a2b36a1b57a4",
+            "start": "off"
+        },
+        "What a LOSER(S)": {
+            "code": "69a1b1599572963a2b75a1b57a3b12a1",
+            "start": "dawnStart"
+        },
+        "Bad Blood": {
+            "code": "15a1b1617657618a1b1565223000a2b2a5",
+            "start": "dawnStart"
+        },
+        "Dreams Never Come True": {
+            "code": "59a1b1553863028a1b45a3b1568391955a2b28a1b1596418309a1",
+            "start": "off"
+        },
+        "V_ltr_n μ": {
+            "code": "1567786474a1b5639273a1b36a1b1541806737a1b57a5",
+            "start": "dawnStart"
+        },
+        "ABC": {
+            "code": "28a1b9a1b1540004252a1b7a1b65a1b1565222419a4b83a1",
+            "start": "off"
+        },
+        "Janitorial": {
+            "code": "75a1b12a1b73a1b72a1b32a1b36a1b57a3b7a1",
+            "start": "off"
+        },
+        "springitorial": {
+            "code": "57a3b7a1b12a1b73a1b72a1b36a1b1581354568a1b49a1",
+            "start": "off"
+        },
+        "One-Shot Cops": {
+            "code": "1555727200a1b59a1b1577500425a2b1580766301a1b89a1b57a4b66a1",
+            "start": "dawnStart"
+        },
+        "How to Fail as Rifleman": {
+            "code": "57a4b4a1b7a1b5639273a1b65a1b86a1b1596417444a1b10a1",
+            "start": "dawnStart"
+        },
+        "How to Play Marksman": {
+            "code": "65a1b75a1b86a1b7a1b32a1b57a4b5a1b31a1",
+            "start": "dawnStart"
+        },
+        "Scum Planning": {
+            "code": "31a1b57a5b1547802152a1b1572486115a1b103a1b323a1b1565316812a1",
+            "start": "off"
+        },
+        "Stacked Court": {
+            "code": "57a4b1611988621a1b14a1b69a3b1609898885a1b1568391955a1",
+            "start": "dawnStart"
+        },
+        "Suit Ninja": {
+            "code": "77a1b42a1b1595571568a1b1565223000a1b1596418309a2b91a1b57a2b7a1b1596417444a1",
+            "start": "dawnStart"
+        },
+        "Tailor's Apprentice": {
+            "code": "12a1b75a1b32a1b1573101280a1b1558240320a1b1595571568a1b1587533794a1b57a3b1596420536a1",
+            "start": "off"
+        },
+        "Talking On Borrowed Time": {
+            "code": "1538276587a1b31a1b79a1b38a1b16a1b2a6b1541806737a1",
+            "start": "dawnStart"
+        },
+        "Triplecamp": {
+            "code": "65a1b75a1b1565630670a1b45a5b1565316812a1b1603688758a1b77a1",
+            "start": "dawnStart"
+        },
+        "B.O.B": {
+            "code": "75a1b321a1b5a1b1554252534a1b36a1b1596417444a5b49a1b1580928590a1",
+            "start": "dawnStart"
+        },
+        "God Save The King": {
+            "code": "5639273a1b57a6b26a1b39a1b43a1b323a1b106a1",
+            "start": "dawnStart"
+        },
+        "If You Wannabe My Lover": {
+            "code": "1540004252a1b1596417104a1b69a1b31a1b32a1b1565630670a1b49a5b1580928590a1",
+            "start": "dawnStart"
+        },
+        "JacKing Off": {
+            "code": "61a1b69a1b1577500425a1b26a1b32a1b79a1b1597815390a1b57a5",
+            "start": "dawnStart"
+        },
+        "Multemplar": {
+            "code": "29a2b62a3b42a5b1573416236a2",
+            "start": "mafiaNKn1"
+        },
+        "What Ever Major Loser": {
+            "code": "1555026977a1b1610841973a1b1599572963a2b75a1b31a1b1565316812a1b57a5",
+            "start": "dawnStart"
+        },
+        "Death's Wind": {
+            "code": "65a1b57a6b27a1b1643942425a1b31a1b36a1b38a1b1541806737a1",
+            "start": "dawnStart"
+        },
+        "Dust & Vashes": {
+            "code": "57a6b7a1b1587533794a1b1538276587a1b65a1b31a1b200a1b1567786474a1",
+            "start": "dawnStart"
+        },
+        "Power Villy 13": {
+            "code": "28a1b7a1b75a2b1572486115a1b31a1b32a1b1552856661a1b45a3b1555727200a1b59a1",
+            "start": "off"
+        },
+        "New Sheriff in Town": {
+            "code": "1602978335a1b1547802152a1b7a1b43a1b1580879842a6b1558240320a1b1565316812a1b90a1",
+            "start": "dawnStart"
+        },
+        "Tax Fraud": {
+            "code": "60a3b12a1b1610848791a1b44a1b1558240320a1b50a5b201a1",
+            "start": "mafiaNKn1"
+        },
+        "Tax Law": {
+            "code": "1596416878a2b1611988621a9b201a1b57a1",
+            "start": "off"
+        },
+        "TMI+": {
+            "code": "1596420536a1b1559001189a1b1611986711a1b1603688758a2b1547078335a1b45a5b1611988621a1b1587533794a1",
+            "start": "dawnStart"
+        },
+        "Hypnotherapy": {
+            "code": "4a1b9a1b1596420536a6b66a1b21a1b76a1b1573568724a1b34a1b98a1",
+            "start": "dawnStart"
+        },
+        "Tale of Two Tourists": {
+            "code": "1599661616a1b4a6b1603688758a1b31a1b77a1b1596418665a1b1587533794a3",
+            "start": "dawnStart"
+        },
+        "Circus": {
+            "code": "5a1b1554252534a3b17a1b66a1b26a1b36a1b10a1b54a1b57a5",
+            "start": "mafiaNKn1"
+        },
+        "Cirque": {
+            "code": "5a1b1554252534a2b17a1b1577500425a1b1596417444a1b16a1b1596416287a2b10a1b57a5",
+            "start": "dawnStart"
+        },
+        "Frame and Fortune": {
+            "code": "61a1b7a1b15a1b64a1b1559001189a1b75a1b1610228810a1b1581354568a1b1611988621a1b57a6",
+            "start": "dawnStart"
+        },
+        "Nervous Sleeping in Seattle": {
+            "code": "1583467528a1b1559001189a1b1610841973a1b1603688758a1b1572568017a7b77a1b34a1b1587533794a2",
+            "start": "mafiaNKn1"
+        },
+        "Sin City": {
+            "code": "19a1b1547802152a1b321a1b5a1b35a1b89a1b57a6b69a1b1611988621a1b60a1",
+            "start": "dawnStart"
+        },
+        "The Great Divide": {
+            "code": "60a1b31a1b57a4b1610841973a1b75a1b1565630670a1b50a4b1565316812a1b79a1",
+            "start": "mafiaNKn1"
+        },
+        "wangabombs": {
+            "code": "4a7b31a1b77a3b36a1b1580766301a1b43a1b87a1",
+            "start": "mafiaNKn1"
+        },
+        "Exposure": {
+            "code": "54a1b57a6b1596337363a1b83a1b77a1b1580766301a1b42a1b1558240320a1b1558930946a1b35a1b1603688758a1",
+            "start": "mafiaNKn1"
+        },
+        "FreezeFrame": {
+            "code": "57a5b38a1b80a1b1618178898a2b19a1b1643942425a1b64a1b1556837816a1b1596417444a1b1580766301a1b1609898885a1",
+            "start": "dawnStart"
+        },
+        "iBern": {
+            "code": "4a1b1547802152a1b65a1b35a1b1552856661a1b38a1b1573568724a1b45a2b47a1b49a1b87a1b57a4",
+            "start": "off"
+        },
+        "JacKing Off+": {
+            "code": "69a1b57a6b61a1b1577500425a1b83a1b26a1b32a1b79a1b16a1b1597815390a1b1611085230a1",
+            "start": "dawnStart"
+        },
+        "Mason Relay": {
+            "code": "69a1b62a1b57a6b14a1b29a2b35a1b1558930946a2b1572486115a1b5a1",
+            "start": "off"
+        },
+        "No Sleep for the Wicked": {
+            "code": "91a1b1540004252a1b1583467528a1b1611988688a1b1538276587a1b69a1b1598154575a1b1603688758a1b31a1b1610848791a1b45a4b57a2",
+            "start": "dawnStart"
+        },
+        "One Night Stand": {
+            "code": "31a1b1587533794a1b200a1b57a6b60a1b69a1b86a1b38a1b49a1b1565316812a1b58a1",
+            "start": "dawnStart"
+        },
+        "Power Millers T": {
+            "code": "1540004252a1b45a6b52a1b32a1b47a1b1573416236a2b1587533794a1b66a1b72a1b50a1",
+            "start": "off"
+        },
+        "VIP": {
+            "code": "1567786474a1b7a1b1559319559a1b69a1b86a1b31a1b1581354568a1b1541480746a1b1580879842a1b57a6b1572486115a1",
+            "start": "mafiaNKn1"
+        },
+        "Your Brain On Drugs": {
+            "code": "4a1b1555026977a1b1596418309a6b1540004252a1b1611988688a1b1538276587a1b99a1b29a1b1565630670a1b62a1b10a1",
+            "start": "dawnStart"
+        },
+        "Congress": {
+            "code": "5639273a1b17a1b1540783473a1b24a1b72a1b25a7b84a1b201a1b106a3",
+            "start": "off"
+        },
+        "Mini Egg": {
+            "code": "68a1b1625356264a1b1623810832a1b17a1b1559001189a1b1610841973a1b103a1b45a2b1587533794a1b1565316812a1b57a6",
+            "start": "dawnStart"
+        },
+        "WeBurn": {
+            "code": "14a1b1625356264a1b1572486115a1b35a1b1573568724a1b47a1b1611988621a1b1587533794a3b57a7",
+            "start": "mafiaNKn1"
+        },
+        "Convert Me, Corrupt Me, Control Me": {
+            "code": "1540004252a1b69a1b31a1b5a1b7a1b1567787886a1b14a1b98a1b44a1b62a1b42a8",
+            "start": "dawnStart"
+        },
+        "Assassin Exists To Be Bussed": {
+            "code": "1596417444a1b57a8b68a1b5a1b27a1b1577500425a1b35a1b1573101280a1b1587533794a3b58a1",
+            "start": "dawnStart"
+        },
+        "iBern + iFreze": {
+            "code": "57a5b17a1b1540004252a1b45a2b65a1b32a1b4a1b80a1b35a1b1552856661a1b38a1b1573568724a1b47a1b87a1",
+            "start": "dawnStart"
+        },
+        "Sin City+": {
+            "code": "57a9b19a1b321a1b5a1b60a1b1547802152a1b1596417104a1b69a1b35a1b89a1b1580928590a1",
+            "start": "dawnStart"
+        },
+        "WANG19": {
+            "code": "28a1b1540004252a1b7a1b1625356264a1b80a1b17a1b1538276587a1b69a1b31a1b32a1b33a1b45a2b57a5b1624739756a1",
+            "start": "dawnStart"
+        },
+        "wangabombs+": {
+            "code": "5a1b36a1b87a1b4a9b31a1b77a3b1580766301a1b10a1b1556390101a1",
+            "start": "mafiaNKn1"
+        },
+        "Basic20": {
+            "code": "28a1b5a1b1540004252a1b7a1b65a1b1538276587a1b69a1b75a1b1572486115a1b31a1b32a1b1552856661a1b45a2b1597815390a1b57a5",
+            "start": "off"
+        },
+        "Chillln20": {
+            "code": "57a5b1602978335a1b61a1b7a1b1611988688a1b80a1b1540783473a1b1617657618a1b1539915457a1b1623980546a1b1599572963a2b86a1b35a1b1618178898a2",
+            "start": "dawnStart"
+        },
+        "RandomGuy Thank You": {
+            "code": "72a1b57a8b321a1b1611988688a1b75a1b86a1b31a1b1572568017a1b44a1b62a1b10a1b1541480746a1b201a1b89a1",
+            "start": "off"
+        },
+        "Simon Fuck You": {
+            "code": "1552856661a1b45a2b57a7b69a1b28a1b1540004252a1b32a1b9a1b87a1b71a1b1539915457a1b1610848791a1b323a1b201a1b1540344996a1",
+            "start": "off"
+        },
+        "Convert Me, Corrupt Me, Control Me+": {
+            "code": "31a1b42a10b7a1b69a1b1540004252a1b98a1b5a1b1567787886a1b14a1b44a1b62a1b56a1b58a1b1555026977a1",
+            "start": "dawnStart"
+        },
+        "Egg": {
+            "code": "1602978335a1b91a1b4a1b1540004252a1b7a1b5639273a1b1625356264a1b65a1b1559001189a1b1623980546a1b86a1b1596417444a1b10a1b1588642540a1b57a8b1611085230a1",
+            "start": "dawnStart"
+        },
+        "Vest of 24": {
+            "code": "7a1b1538276587a1b1541480746a1b1540004252a1b1587533794a1b1559001189a1b28a1b1553863028a1b1596418309a11b1a1b91a1b61a1b1581354568a1b1596418665a1",
+            "start": "dawnStart"
+        },
+        "Pie25": {
+            "code": "7a1b75a2b57a7b28a1b9a1b5a1b1540004252a1b1554252534a1b65a1b17a1b69a1b1539915457a1b86a1b32a1b1552856661a1b45a2b47a1",
+            "start": "off"
+        }
+    },
+    "presets": {
+        "randumbs": [
+            "1625031283a1b1625029370a2",
+            "1625029370a3b1625030984a1",
+            "1625029370a4b1625030984a1",
+            "1625029370a5b1625030984a1",
+            "1625029370a5b1625030984a1b1625031283a1",
+            "1625029370a6b1625030984a1b1625031283a1",
+            "1625029370a7b1625030984a2",
+            "1625029370a7b1625030984a2b1625031283a1",
+            "1625029370a8b1625030984a2b1625031283a1",
+            "1625029370a9b1625030984a2b1625031283a1",
+            "1625029370a10b1625030984a3",
+            "1625029370a10b1625030984a2b1625031283a2",
+            "1625029370a11b1625030984a2b1625031283a2",
+            "1625029370a12b1625030984a3b1625031283a1",
+            "1625029370a13b1625030984a3b1625031283a1",
+            "1625029370a13b1625030984a4",
+            "1625029370a13b1625030984a4b1625031283a1",
+            "1625029370a14b1625030984a4b1625031283a1",
+            "1625029370a15b1625030984a4b1625031283a1",
+            "1625029370a16b1625030984a5",
+            "1625029370a16b1625030984a5b1625031283a1",
+            "1625029370a17b1625030984a5b1625031283a1",
+            "1625029370a18b1625030984a6",
+            "1625029370a18b1625030984a6b1625031283a1",
+            "1625029370a19b1625030984a6b1625031283a1",
+            "1625029370a20b1625030984a7",
+            "1625029370a21b1625030984a7",
+            "1625029370a21b1625030984a7b1625031283a1",
+            "1625029370a22b1625030984a7b1625031283a1"
+        ],
+        "real": [
+            ["Consifom", "Small Vengeful", "The One I Cannot Kill"],
+            ["Bombguns", "Two Time's The Charm"],
+            ["5 Man Conplan", "CSPAN", "Dethy", "Zombies"],
+            ["Bozosnoops", "Everyman", "Lamb Stampede", "Lovers Mafia", "Shrink the Cult", "TMI"],
+            ["Bootcamp", "Guns and Hookers", "Pie E7", "Voltron Doesn't Like It"],
+            ["Civil Arms", "Stackjack", "Sweet Dreams", "Voltron", "What a LOSER(S)"],
+            ["Bad Blood", "Dreams Never Come True", "V_ltr_n μ"],
+            ["ABC", "Janitorial", "springitorial"],
+            ["One-Shot Cops", "How to Fail as Rifleman", "How to Play Marksman", "Scum Planning", "Stacked Court", "Suit Ninja", "Tailor's Apprentice", "Talking On Borrowed Time", "Triplecamp"],
+            ["B.O.B", "God Save The King", "If You Wannabe My Lover", "JacKing Off", "Multemplar", "What Ever Major Loser"],
+            ["Death's Wind", "Dust & Vashes", "Power Villy 13", "New Sheriff in Town", "Tax Fraud", "Tax Law", "TMI+"],
+            ["Hypnotherapy", "Tale of Two Tourists"],
+            ["Circus", "Cirque", "Frame and Fortune", "Nervous Sleeping in Seattle", "Sin City", "The Great Divide", "wangabombs"],
+            ["Exposure", "FreezeFrame", "iBern", "JacKing Off+", "Mason Relay", "No Sleep for the Wicked", "Power Millers T", "VIP", "Your Brain On Drugs"],
+            ["Congress", "Mini Egg", "WeBurn"],
+            ["Convert Me, Corrupt Me, Control Me"],
+            ["Assassin Exists To Be Bussed", "iBern + iFreze", "Sin City+", "wangabombs+", "WANG19"],
+            ["Basic20", "Chillln20"],
+            ["RandomGuy Thank You"],
+            ["Simon Fuck You"],
+            ["Convert Me, Corrupt Me, Control Me+", "Egg"],
+            ["Vest of 24"],
+            ["Pie25"]
+        ]
+    }
+}
