@@ -38,7 +38,7 @@ if session.status_code != 200:
 token = session.cookies["userSessionToken"]
 userid = session.json()["id"]
 
-mid = requests.post("https://mafia.gg/api/rooms/", json={"name": roomname, "unlisted": True}, headers={"Cookie": f"userSessionToken={token}"}).json()["id"] if groomid is None else groomid
+mid = requests.post("https://mafia.gg/api/rooms/", json={"name": roomname, "unlisted": False}, headers={"Cookie": f"userSessionToken={token}"}).json()["id"] if groomid is None else groomid
 room = requests.get(f"https://mafia.gg/api/rooms/{mid}", headers={"Cookie": f"userSessionToken={token}"})
 auth = room.json()["auth"]
 
@@ -117,6 +117,10 @@ async def parse(i, ws):
     elif mmessage == "The Ready Check has ended.":
       afk = False
       await fit(ws)
+    elif mmessage == "This room will be automatically closed in 2 minutes if the game does not begin":
+      maroom = requests.post("https://mafia.gg/api/rooms/", json={"name": roomname, "unlisted": False}, headers={"Cookie": f"userSessionToken={token}"})
+      mroomid = maroom.json()["id"]
+      return mroomid
   elif i["type"] == "startGame":
     mphase = i["time"]["phase"]
     for j in i["players"]:
